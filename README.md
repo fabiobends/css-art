@@ -1,5 +1,9 @@
 # css-art
-This is a tutorial from DesignCourse about drawing content with CSS.
+This is a tutorial from DesignCourse about drawing content with CSS. The result is seen down below.
+
+<p align="center">
+  <img alt="draw" src=".github/css-art.png" width="100%">
+</p>
 
 In this tutorial I used Sass and the extension "Live Sass Compiler" in VS Code, a nice design has been made according to the steps given by Gary Simon. This repo is based in:
 
